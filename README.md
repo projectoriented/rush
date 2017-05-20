@@ -6,7 +6,7 @@ A project from CUNY hackathon Spring 2017
 Mei Wu, Firangis, Yihenn, Tan Bruce, Zifang
 
 <h3>What is the purpose of this project?</h3>
-The aim of this project is to create an app catered to natives and tourists to find their way to the nearest bathroom. In addition to that feature, we want to implement locating the nearest available wifi and charging station. This app will be built using react-native's framework.
+The aim of this project is to create an app catered to natives and tourists to find their way to the nearest bathroom. This app will be built using react-native's framework.
 
 ![splash](fastlane/screenshots/splash.png?raw=true "Splash")
 ![map](fastlane/screenshots/map.png?raw=true "Map")
